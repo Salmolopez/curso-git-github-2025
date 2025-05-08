@@ -1,3 +1,5 @@
 Ls -> lista arquivos
 Cd -> move enter diretórios
 Pwd -> mostra diretório de trabalho
+Cat -> exibe conteúdo do arquivo
+Rm -> remove arquivo ou diretório
