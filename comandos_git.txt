@@ -5,8 +5,7 @@ git commit -m "msg" -> faz commit do que estava para ser commitado
 Git log -> mostra todo o histórico de commits
 
 ## FLUXO DE TRABALHO
-
-1. Criar o diretório do projeto
+1. Criar o diretório (pasta) do projeto
 2. Iniciar o git dentro do diretório criado (git init .)
 3. Edita ou cria arquivos
 4. Git status
